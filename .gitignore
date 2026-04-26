@@ -14,7 +14,7 @@ node_modules/.prisma/
 prisma/migrations/
 
 # Environment
-.env
+# .env
 .env.local
 .env.*.local
 
