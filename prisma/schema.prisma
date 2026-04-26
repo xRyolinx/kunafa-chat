@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
+  url      = "postgresql://kunafa_chat_user:9xQpI4WDwkKliW7f7C8JkJ8PJGuVteuX@dpg-d7mvvaj7uimc73b5om10-a.oregon-postgres.render.com/kunafa_chat"
 }
 
 model Message {
