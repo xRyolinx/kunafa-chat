@@ -1,5 +1,5 @@
 # Kunafa Chat - Simple Chat Application
-
+ 
 A simple chat application where only Manil and Ines can communicate with each other.
 
 Built with **Next.js 14**, **Prisma ORM**, and **PostgreSQL** for optimal Vercel deployment.
